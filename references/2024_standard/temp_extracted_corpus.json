@@ -1,0 +1,4082 @@
+[
+  {
+    "category": "한글 점자",
+    "text": "너비",
+    "braille": "cs~o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "두더지",
+    "braille": "imis.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "리코더",
+    "braille": "\"ofuis"
+  },
+  {
+    "category": "한글 점자",
+    "text": "미소",
+    "braille": "eo,u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "보리",
+    "braille": "~u\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "셔츠",
+    "braille": ",:;{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "저고리",
+    "braille": ".s@u\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "추수",
+    "braille": ";m,m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "커피",
+    "braille": "fsdo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "터무니",
+    "braille": "hsemco"
+  },
+  {
+    "category": "한글 점자",
+    "text": "피리",
+    "braille": "do\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "호수",
+    "braille": "ju,m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "아버지",
+    "braille": "<~s.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "야구",
+    "braille": ">@m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "어머니",
+    "braille": "sesco"
+  },
+  {
+    "category": "한글 점자",
+    "text": "여우",
+    "braille": ":m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "오이",
+    "braille": "uo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "요리",
+    "braille": "+\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "우유",
+    "braille": "m%"
+  },
+  {
+    "category": "한글 점자",
+    "text": "유리",
+    "braille": "%\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "으스스",
+    "braille": "{,{,{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "이모",
+    "braille": "oeu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "피아노",
+    "braille": "do<cu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "도우미",
+    "braille": "iumeo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "러시아",
+    "braille": "\"s,o<"
+  },
+  {
+    "category": "한글 점자",
+    "text": "두꺼비",
+    "braille": "im,@s~o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "뚜껑",
+    "braille": ",im,@s7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "허리띠",
+    "braille": "js\"o,io"
+  },
+  {
+    "category": "한글 점자",
+    "text": "뻐꾸기",
+    "braille": ",~s,@m@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "고삐",
+    "braille": "@u,~o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쓰기",
+    "braille": ",,{@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "아저씨",
+    "braille": "<.s,,o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쭈르르",
+    "braille": ",.m\"{\"{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "버찌",
+    "braille": "~s,.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "윤리",
+    "braille": "%3\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "싣고",
+    "braille": ",o9@u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "놀이",
+    "braille": "cu1o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "솜씨",
+    "braille": ",u5,,o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "넙치",
+    "braille": "csb;o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "놋그릇",
+    "braille": "cu'@{\"{'"
+  },
+  {
+    "category": "한글 점자",
+    "text": "향기",
+    "braille": "j>7@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "엊저녁",
+    "braille": "sk.sc:a"
+  },
+  {
+    "category": "한글 점자",
+    "text": "윷놀이",
+    "braille": "%2cu1o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "부엌",
+    "braille": "~ms6"
+  },
+  {
+    "category": "한글 점자",
+    "text": "겉보리",
+    "braille": "@s8~u\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "앞집",
+    "braille": "<4.ob"
+  },
+  {
+    "category": "한글 점자",
+    "text": "히읗",
+    "braille": "jo{0"
+  },
+  {
+    "category": "한글 점자",
+    "text": "겪다",
+    "braille": "@:aai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "묶음",
+    "braille": "emaa[5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "있다",
+    "braille": "o/i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "보았다",
+    "braille": "^u</i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "앉다",
+    "braille": "<3ki"
+  },
+  {
+    "category": "한글 점자",
+    "text": "않다",
+    "braille": "<30i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "읽다",
+    "braille": "o1ai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "옮기다",
+    "braille": "u15@oi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얇다",
+    "braille": ">1bi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "외곬",
+    "braille": "y@u1'"
+  },
+  {
+    "category": "한글 점자",
+    "text": "핥다",
+    "braille": "j18i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "옳다",
+    "braille": "u10i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "없다",
+    "braille": "sb'i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "고양이",
+    "braille": "@u>7o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "엄지",
+    "braille": "s5.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "무역",
+    "braille": "em:a"
+  },
+  {
+    "category": "한글 점자",
+    "text": "호랑이",
+    "braille": "ju\"<7o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "무용",
+    "braille": "em+7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "국수",
+    "braille": "@ma,m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "법률",
+    "braille": "~sb\"%1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "특기",
+    "braille": "h{a@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "코끼리",
+    "braille": "fu,@o\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얘기",
+    "braille": ">r@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "헤엄",
+    "braille": "jns5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "지혜",
+    "braille": ".oj/"
+  },
+  {
+    "category": "한글 점자",
+    "text": "광주리",
+    "braille": "@v7.m\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쾌활",
+    "braille": "fvrjv1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "피뢰침",
+    "braille": "do\"y;o5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "권리",
+    "braille": "@p3\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "우렁쉥이",
+    "braille": "m\"s7,pr7o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쉼터",
+    "braille": ",mr5hs"
+  },
+  {
+    "category": "한글 점자",
+    "text": "무늬",
+    "braille": "emcw"
+  },
+  {
+    "category": "한글 점자",
+    "text": "파열음에는 ㄱ, ㄷ, ㅂ 등이 있다.",
+    "braille": "``d<|{5ncz`=a\"`=9\"`=b`i{7o`o/i4`"
+  },
+  {
+    "category": "한글 점자",
+    "text": "삼각형 ㄱㄴㄷ",
+    "braille": "l5$aj}`=a=3=9"
+  },
+  {
+    "category": "한글 점자",
+    "text": "낫 놓고 ㄱ자도 모른다.",
+    "braille": "``c'`cu0@u`=a.iu`eu\"zi4`````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅂ은 여섯 번째 자음이다.",
+    "braille": "``=bz`:,s'`~),.r`.<{5oi4````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㄱ. 유아기",
+    "braille": "=a4`%<@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㄴ. 아동기",
+    "braille": "=34`<i=@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㄷ. 청년기",
+    "braille": "=94`;]c*@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㄹ. 장년기",
+    "braille": "=14`.7c*@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅁ. 노년기",
+    "braille": "=54`cuc*@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Roma [ㄹㄹ로마]",
+    "braille": "0,roma4`82_1_1\"ue;0"
+  },
+  {
+    "category": "한글 점자",
+    "text": "carro [까ㄹㄹ로]",
+    "braille": "0c>ro4`82,$_1_1\"u;0"
+  },
+  {
+    "category": "한글 점자",
+    "text": "아예",
+    "braille": "<-/"
+  },
+  {
+    "category": "한글 점자",
+    "text": "도예",
+    "braille": "iu-/"
+  },
+  {
+    "category": "한글 점자",
+    "text": "뭐예요",
+    "braille": "ep-/+"
+  },
+  {
+    "category": "한글 점자",
+    "text": "서예",
+    "braille": ",s-/"
+  },
+  {
+    "category": "한글 점자",
+    "text": "야애",
+    "braille": ">-r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "소화액",
+    "braille": ",ujv-ra"
+  },
+  {
+    "category": "한글 점자",
+    "text": "수액",
+    "braille": ",m-ra"
+  },
+  {
+    "category": "한글 점자",
+    "text": "파워앰프",
+    "braille": "d<p-r5d{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "가지",
+    "braille": "$.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "나비",
+    "braille": "c~o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "다리미",
+    "braille": "i\"oeo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "라디오",
+    "braille": "\"<iou"
+  },
+  {
+    "category": "한글 점자",
+    "text": "고구마",
+    "braille": "@u@me"
+  },
+  {
+    "category": "한글 점자",
+    "text": "바느질",
+    "braille": "~c{.o1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "사위",
+    "braille": "lmr"
+  },
+  {
+    "category": "한글 점자",
+    "text": "아궁이",
+    "braille": "<@m7o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "도자기",
+    "braille": "iu.@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "기차",
+    "braille": "@o;<"
+  },
+  {
+    "category": "한글 점자",
+    "text": "카메라",
+    "braille": "fen\"<"
+  },
+  {
+    "category": "한글 점자",
+    "text": "실타래",
+    "braille": ",o1h\"r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "파도",
+    "braille": "diu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "하루",
+    "braille": "j\"m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "강산",
+    "braille": "$7l3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "낮잠",
+    "braille": "ck.5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "단란",
+    "braille": "i3\"<3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "만찬",
+    "braille": "e3;<3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "안방",
+    "braille": "<3~7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "바캉스",
+    "braille": "~f7,{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "갈비탕",
+    "braille": "$1~oh7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "판소리",
+    "braille": "d3,u\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "합창",
+    "braille": "jb;<7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "까마귀",
+    "braille": ",$e@mr"
+  },
+  {
+    "category": "한글 점자",
+    "text": "깜깜하다",
+    "braille": ",$5,$5ji"
+  },
+  {
+    "category": "한글 점자",
+    "text": "따님",
+    "braille": ",ico5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "딱따구리",
+    "braille": ",ia,i@m\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "오빠",
+    "braille": "u,~"
+  },
+  {
+    "category": "한글 점자",
+    "text": "빵집",
+    "braille": ",~7.ob"
+  },
+  {
+    "category": "한글 점자",
+    "text": "싸구려",
+    "braille": ",l@m\":"
+  },
+  {
+    "category": "한글 점자",
+    "text": "찹쌀",
+    "braille": ";<b,l1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "짜장",
+    "braille": ",..7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "짱구",
+    "braille": ",.7@m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "나이",
+    "braille": "c<o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "다음",
+    "braille": "i<[5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "마우스",
+    "braille": "e<m,{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "바위",
+    "braille": "^<mr"
+  },
+  {
+    "category": "한글 점자",
+    "text": "자아",
+    "braille": ".<<"
+  },
+  {
+    "category": "한글 점자",
+    "text": "카이로",
+    "braille": "f<o\"u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "넥타이",
+    "braille": "cnah<o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "파이프",
+    "braille": "d<od{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "하얀",
+    "braille": "j<>3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "땅을 팠다.",
+    "braille": ",i7!`d</i4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "억새",
+    "braille": "?,r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "추억",
+    "braille": ";m?"
+  },
+  {
+    "category": "한글 점자",
+    "text": "언어",
+    "braille": ")s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "격언",
+    "braille": "@:a)"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얼룩",
+    "braille": "t\"ma"
+  },
+  {
+    "category": "한글 점자",
+    "text": "하얼빈",
+    "braille": "j<t~q"
+  },
+  {
+    "category": "한글 점자",
+    "text": "연필",
+    "braille": "*do1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "자연",
+    "braille": ".<*"
+  },
+  {
+    "category": "한글 점자",
+    "text": "열매",
+    "braille": "|er"
+  },
+  {
+    "category": "한글 점자",
+    "text": "가열",
+    "braille": "$|"
+  },
+  {
+    "category": "한글 점자",
+    "text": "영어",
+    "braille": "}s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "환영",
+    "braille": "jv3}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "옥수수",
+    "braille": "x,m,m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "가옥",
+    "braille": "$x"
+  },
+  {
+    "category": "한글 점자",
+    "text": "온도",
+    "braille": "(iu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "오리온",
+    "braille": "u\"o("
+  },
+  {
+    "category": "한글 점자",
+    "text": "옹고집",
+    "braille": "=@u.ob"
+  },
+  {
+    "category": "한글 점자",
+    "text": "새옹지마",
+    "braille": ",r=.oe"
+  },
+  {
+    "category": "한글 점자",
+    "text": "운동장",
+    "braille": "gi=.7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "행운",
+    "braille": "jr7g"
+  },
+  {
+    "category": "한글 점자",
+    "text": "울타리",
+    "braille": "&h\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "겨울",
+    "braille": "@:&"
+  },
+  {
+    "category": "한글 점자",
+    "text": "은하수",
+    "braille": "zj,m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "양은",
+    "braille": ">7z"
+  },
+  {
+    "category": "한글 점자",
+    "text": "을지로",
+    "braille": "!.o\"u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "가을",
+    "braille": "$!"
+  },
+  {
+    "category": "한글 점자",
+    "text": "인내",
+    "braille": "qcr"
+  },
+  {
+    "category": "한글 점자",
+    "text": "거인",
+    "braille": "@sq"
+  },
+  {
+    "category": "한글 점자",
+    "text": "것이다",
+    "braille": "_soi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "이것",
+    "braille": "o_s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "덕망",
+    "braille": "i?e7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "기적",
+    "braille": "@o.?"
+  },
+  {
+    "category": "한글 점자",
+    "text": "꺾다",
+    "braille": ",@?ai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "넋",
+    "braille": "c?'"
+  },
+  {
+    "category": "한글 점자",
+    "text": "건전지",
+    "braille": "@).).o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "개천절",
+    "braille": "@r;).t"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얹다",
+    "braille": ")ki"
+  },
+  {
+    "category": "한글 점자",
+    "text": "벌레",
+    "braille": "~t\"n"
+  },
+  {
+    "category": "한글 점자",
+    "text": "옷걸이",
+    "braille": "u'@to"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얽다",
+    "braille": "tai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "젊다",
+    "braille": ".t5i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "넓다",
+    "braille": "ctbi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "변화",
+    "braille": "~*jv"
+  },
+  {
+    "category": "한글 점자",
+    "text": "수련",
+    "braille": ",m\"*"
+  },
+  {
+    "category": "한글 점자",
+    "text": "별자리",
+    "braille": "~|.\"o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "헌혈",
+    "braille": "j)j|"
+  },
+  {
+    "category": "한글 점자",
+    "text": "엷다",
+    "braille": "|bi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "평화",
+    "braille": "d}jv"
+  },
+  {
+    "category": "한글 점자",
+    "text": "안녕",
+    "braille": "<3c}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "복덕방",
+    "braille": "~xi?~7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "가곡",
+    "braille": "$@x"
+  },
+  {
+    "category": "한글 점자",
+    "text": "볶다",
+    "braille": "~xai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "논두렁",
+    "braille": "c(im\"s7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "용돈",
+    "braille": "+7i("
+  },
+  {
+    "category": "한글 점자",
+    "text": "동그라미",
+    "braille": "i=@{\"<eo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "탁구공",
+    "braille": "ha@m@="
+  },
+  {
+    "category": "한글 점자",
+    "text": "순두부",
+    "braille": ",gim~m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "숭례문",
+    "braille": ",m7\"/eg"
+  },
+  {
+    "category": "한글 점자",
+    "text": "불고기",
+    "braille": "~&@u@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "일출",
+    "braille": "o1;&"
+  },
+  {
+    "category": "한글 점자",
+    "text": "붉다",
+    "braille": "^&ai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "굶다",
+    "braille": "@&5i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "훑다",
+    "braille": "j&8i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "근로",
+    "braille": "@z\"u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "마흔",
+    "braille": "ejz"
+  },
+  {
+    "category": "한글 점자",
+    "text": "끊다",
+    "braille": ",@z0i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "글씨",
+    "braille": "@!,,o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "구슬",
+    "braille": "@m,!"
+  },
+  {
+    "category": "한글 점자",
+    "text": "긁다",
+    "braille": "@!ai"
+  },
+  {
+    "category": "한글 점자",
+    "text": "읊다",
+    "braille": "!4i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "끓다",
+    "braille": ",@!0i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "진실",
+    "braille": ".q,o1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "어린이",
+    "braille": "s\"qo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "하겄다",
+    "braille": "j@s/i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "까치",
+    "braille": ",$;o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "깡충깡충",
+    "braille": ",$7;m7,$7;m7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "싸리나무",
+    "braille": ",l\"ocem"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쌍둥이",
+    "braille": ",l7im7o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "힘껏",
+    "braille": "jo5,_s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "마음껏",
+    "braille": "e<{5,_s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "불을 껐다.",
+    "braille": "~&!`,@s/i4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "성가",
+    "braille": ",}$"
+  },
+  {
+    "category": "한글 점자",
+    "text": "말썽",
+    "braille": "e1,,]"
+  },
+  {
+    "category": "한글 점자",
+    "text": "정성",
+    "braille": ".},}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "어정쩡",
+    "braille": "s.},.}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "청년",
+    "braille": ";}c*"
+  },
+  {
+    "category": "한글 점자",
+    "text": "얄라셩",
+    "braille": ">1\"<,:7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그래서",
+    "braille": "as"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러나",
+    "braille": "ac"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러면",
+    "braille": "a3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러므로",
+    "braille": "a5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그런데",
+    "braille": "an"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그리고",
+    "braille": "au"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그리하여",
+    "braille": "a:"
+  },
+  {
+    "category": "한글 점자",
+    "text": "만약 결과가 그러면 어떻게 할 거니?",
+    "braille": "``e3>a`@|@v$`a3`s,is0@n`j1`@sco8"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러므로 오늘 저녁에 와야 한다.",
+    "braille": "``a5`uc!`.sc:an`v>`j3i4`````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그림을 그리고 있다.",
+    "braille": "``@[\"o5!`au`o/i4````````````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그리하여 그들은 친구 사이가 되었다.",
+    "braille": "``a:`@{i!z`;q@m`lo$`iys/i4``````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그래서인지",
+    "braille": "asq.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러나저러나",
+    "braille": "ac.s\"sc"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그러면서",
+    "braille": "a3,s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그런데도",
+    "braille": "aniu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그리하여도",
+    "braille": "a:iu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "왜 그러나요?",
+    "braille": "vr`ac+8"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그림을 그리고서 밥을 먹었다.",
+    "braille": "``@[\"o5!`au,s`^b!`e?s/i4````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "오그리고",
+    "braille": "u@{\"o@u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "우그리고",
+    "braille": "m@{\"o@u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "쭈그리고",
+    "braille": ",.m@{\"o@u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "찡그리고",
+    "braille": ",.o7@{\"o@u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆁ",
+    "braille": "\"4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆆ",
+    "braille": "\"0"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅸ",
+    "braille": "\"b7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅥ",
+    "braille": "\"cc"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆀ",
+    "braille": "\"gg"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆅ",
+    "braille": "\"jj"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅲ",
+    "braille": "\"^@"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅳ",
+    "braille": "\"^i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅶ",
+    "braille": "\"^."
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅷ",
+    "braille": "\"^h"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㅴ",
+    "braille": "\"^,@"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆍ",
+    "braille": "\"#"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆎ",
+    "braille": "\"#R"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆇ",
+    "braille": "_+>"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆈ",
+    "braille": "_+>r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆉ",
+    "braille": "_+o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆊ",
+    "braille": "_%:"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆋ",
+    "braille": "_%/"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ㆌ",
+    "braille": "_%o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그는 Canada로 여행을 떠났다.",
+    "braille": "``@{cz`0,canada4\"u`:jr7!`,isc/i4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Α",
+    "braille": ",.a"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Β",
+    "braille": ",.b"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Γ",
+    "braille": ",.g"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Δ",
+    "braille": ",.d"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ε",
+    "braille": ",.e"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ζ",
+    "braille": ",.z"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Η",
+    "braille": ",.:"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Θ",
+    "braille": ",.?"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ι",
+    "braille": ",.i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Κ",
+    "braille": ",.k"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Λ",
+    "braille": ",.l"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Μ",
+    "braille": ",.m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ν",
+    "braille": ",.n"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ξ",
+    "braille": ",.x"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ο",
+    "braille": ",.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Π",
+    "braille": ",.p"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ρ",
+    "braille": ",.r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Σ",
+    "braille": ",.s"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Τ",
+    "braille": ",.t"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Υ",
+    "braille": ",.u"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Φ",
+    "braille": ",.f"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ψ",
+    "braille": ",.y"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ω",
+    "braille": ",.w"
+  },
+  {
+    "category": "한글 점자",
+    "text": "μm",
+    "braille": ".mm"
+  },
+  {
+    "category": "한글 점자",
+    "text": "ΔΕΛΦΟΙ",
+    "braille": ",,.d.e.l.f.o.i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그녀는 ΦΒΚ의 회원이다.",
+    "braille": "``@{c:cz`0,,.f.b.k4w`jyp3oi4````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "WHO: 세계 보건 기구",
+    "braille": "0,,who\"1`,n@/`~u@)`@o@m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "KTX/새마을호/무궁화호",
+    "braille": "0,,ktx4_/,re<!ju_/em@m7jvju"
+  },
+  {
+    "category": "한글 점자",
+    "text": "U-도서관",
+    "braille": "0,u4-iu,s@v3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Summary~연습 문제",
+    "braille": "0,summ>y4@9*,{b`eg.n"
+  },
+  {
+    "category": "한글 점자",
+    "text": "MP3 플레이어",
+    "braille": "0,,mp#c`d!\"nos"
+  },
+  {
+    "category": "한글 점자",
+    "text": "A4용지",
+    "braille": "0,a#d+7.o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "LP 1장",
+    "braille": "0,,lp`#a.7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "KBS 1 TV 좀 켜 주세요.",
+    "braille": "``0,,kbs`#a`,,tv4`.u5`f:`.m,n+4`"
+  },
+  {
+    "category": "한글 점자",
+    "text": "CD 1장을 구하려 합니다.",
+    "braille": "``0;,,cd`#a.7!`@mj\":`jbcoi4`````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "추가 내용은 Part 3을 참고하세요.",
+    "braille": "``;m$`cr+7z`0,\"p`#c!`;<5@uj,n+4`"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Lesson 1. 인사말",
+    "braille": "0,lesson`#a4`qle1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "그 책의 v-x쪽을 읽어 보세요.",
+    "braille": "``@[`;raw`0v-;x4,.x!`o1as`^u,n+4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "9,375명",
+    "braille": "#i1cge`e}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5,700,000원",
+    "braille": "#e1gjj1jjjp3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "창세기 12,1-9",
+    "braille": ";<7,n@o`#ab1a-#i"
+  },
+  {
+    "category": "한글 점자",
+    "text": "1가",
+    "braille": "#a$"
+  },
+  {
+    "category": "한글 점자",
+    "text": "2권",
+    "braille": "#b@p3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "3반",
+    "braille": "#c^3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "4선",
+    "braille": "#d,)"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5월",
+    "braille": "#ep1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "6일",
+    "braille": "#fo1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "7자루",
+    "braille": "#g.\"m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "8꾸러미",
+    "braille": "#h,@m\"seo"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5 개",
+    "braille": "#e`@r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "8 상자",
+    "braille": "#h`l7."
+  },
+  {
+    "category": "한글 점자",
+    "text": "1년",
+    "braille": "#a`c*"
+  },
+  {
+    "category": "한글 점자",
+    "text": "2도",
+    "braille": "#b`iu"
+  },
+  {
+    "category": "한글 점자",
+    "text": "3명",
+    "braille": "#c`e]"
+  },
+  {
+    "category": "한글 점자",
+    "text": "4칸",
+    "braille": "#d`f3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5톤",
+    "braille": "#e`h("
+  },
+  {
+    "category": "한글 점자",
+    "text": "6평",
+    "braille": "#f`d]"
+  },
+  {
+    "category": "한글 점자",
+    "text": "7항",
+    "braille": "#g`j7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5운6기",
+    "braille": "#e`g#f@o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "4×8=32",
+    "braille": "#d*#h33#cb"
+  },
+  {
+    "category": "한글 점자",
+    "text": "12÷3=4",
+    "braille": "#ab//#c33#d"
+  },
+  {
+    "category": "한글 점자",
+    "text": "나루 + 배 = 나룻배",
+    "braille": "c\"m`5`^r`33`c\"m'^r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "5개-3개=2개",
+    "braille": "#e@r`9`#c@r`33`#b@r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "원주율은 약 3.14이다.",
+    "braille": "``p3.m%1z`>a`#c4adoi4```````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "이번에 가시면 언제 돌아오세요?",
+    "braille": "``o^)n`$,oe*`).n`iu1<u,n+8``````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "이거 정말 큰일이 났구나!",
+    "braille": "``o@s`.]e1`fzo1o`c/@mc6`````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "문방사우: 종이, 붓, 먹, 벼루",
+    "braille": "eg^7lm\"1`.=o\"`^m'\"`e?\"`^:\"m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "남반구/북반구",
+    "braille": "c5^3@m_/^ma^3@m"
+  },
+  {
+    "category": "한글 점자",
+    "text": "드디어 서울-호치민의 항로가 열렸다.",
+    "braille": "``i[ios`,s&-ju;oeqw`j7\"u$`|\":/i4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "9월 15일~9월 25일",
+    "braille": "#ip1`#aeo1@9#ip1`#beo1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "모집 인원: ○명",
+    "braille": "eu.ob`qp3\"1`_0le]"
+  },
+  {
+    "category": "한글 점자",
+    "text": "정치·경제",
+    "braille": ".];o\"2@].n"
+  },
+  {
+    "category": "한글 점자",
+    "text": "사과·배, 배추·무",
+    "braille": "l@v\"2^r\"`^r;m\"2em"
+  },
+  {
+    "category": "한글 점자",
+    "text": "8·15 광복",
+    "braille": "#h\"2#ae`@v7~x"
+  },
+  {
+    "category": "한글 점자",
+    "text": "통권 제54·55·56호",
+    "braille": "h=@p3`.n#ed\"2#ee\"2#ef`ju"
+  },
+  {
+    "category": "한글 점자",
+    "text": "오전 10:20",
+    "braille": "u.)`#aj\"1#bj"
+  },
+  {
+    "category": "한글 점자",
+    "text": "요한 3:16",
+    "braille": "+j3`#c\"1#af"
+  },
+  {
+    "category": "한글 점자",
+    "text": "청군:백군",
+    "braille": ";]@g\"1^ra@g"
+  },
+  {
+    "category": "한글 점자",
+    "text": "먹이다/먹히다",
+    "braille": "e?oi_/e?joi"
+  },
+  {
+    "category": "한글 점자",
+    "text": "착한 사람 / 악한 사람",
+    "braille": ";<aj3`l\"<5`_/`<aj3`l\"<5"
+  },
+  {
+    "category": "한글 점자",
+    "text": "“빨리 말해!”",
+    "braille": "``8,~1\"o`e1jr60`````````````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "“…….”",
+    "braille": "``8,,,40````````````````````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "다음 보기에서 명사가 아닌 것은?",
+    "braille": "``i<{5`~u@on,s`e}l$`,-<cq-'`_sz8"
+  },
+  {
+    "category": "한글 점자",
+    "text": "서울은 대한민국의 수도이다.",
+    "braille": "``,s&z`irj3eq@maw`;-,miu-2oi4```"
+  },
+  {
+    "category": "한글 점자",
+    "text": "김○○ 씨",
+    "braille": "@o5_00l`,,o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "이 ×××야!",
+    "braille": "o`_xxxl>6"
+  },
+  {
+    "category": "한글 점자",
+    "text": "△△도서관",
+    "braille": "_++liu,s@v3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "☆☆고등학교",
+    "braille": "_99l@ui[7ja@+"
+  },
+  {
+    "category": "한글 점자",
+    "text": "2016년 ◇월 ◆일",
+    "braille": "#bjaf`c*`_5lp1`_olo1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "* 야애: 들에 낀 안개",
+    "braille": "\"9`>-r\"1`i!n`,@q`<3@r"
+  },
+  {
+    "category": "한글 점자",
+    "text": "’22. 9. 7.",
+    "braille": "#'bb4`#i4`#g4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "’88 서울 올림픽",
+    "braille": "#'hh`,s&`u1\"o5doa"
+  },
+  {
+    "category": "한글 점자",
+    "text": "제1 작업실",
+    "braille": ".n#a`.asb,o1"
+  },
+  {
+    "category": "한글 점자",
+    "text": "제2   〃",
+    "braille": ".n#b`00"
+  },
+  {
+    "category": "한글 점자",
+    "text": "밤ː나무",
+    "braille": "^5,'cem"
+  },
+  {
+    "category": "한글 점자",
+    "text": "① ㄱ, ㄴ  ② ㄱ, ㄷ",
+    "braille": "#1`=a\"`=3``#2`=a\"`=9"
+  },
+  {
+    "category": "한글 점자",
+    "text": "25￠",
+    "braille": "#be0@c"
+  },
+  {
+    "category": "한글 점자",
+    "text": "￡88",
+    "braille": "0@l#hh"
+  },
+  {
+    "category": "한글 점자",
+    "text": "$1는 100￠이다.",
+    "braille": "``0@s#a`cz`#ajj0@c`oi4``````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "B₆",
+    "braille": "0,b;#f"
+  },
+  {
+    "category": "한글 점자",
+    "text": "1평은 3.3㎡이다.",
+    "braille": "``#a`d]z`#c4c0m^#boi4```````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "비타민 B₉의 이름은 엽산이다.",
+    "braille": "``~oheq`0,b;#iw`o\"{5z`:bl3oi4```"
+  },
+  {
+    "category": "한글 점자",
+    "text": "1m는 100cm이다.",
+    "braille": "``#a0m4cz`#ajj0cm4oi4```````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "1in는 2.54cm이다.",
+    "braille": "``#a0in4cz`#b4ed0cm4oi4`````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "Ω는 전기 저항의 단위이다.",
+    "braille": "``0,.w4cz`.)@o`.sj7w`i3mroi4````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "‰",
+    "braille": "%ile"
+  },
+  {
+    "category": "한글 점자",
+    "text": "연 강수량의 10%에 해당한다.",
+    "braille": "``*`$7,m\">7w`#aj0p`n`jri7j3i4```"
+  },
+  {
+    "category": "한글 점자",
+    "text": "직각은 90°이다.",
+    "braille": "``.oa$az`#ij0d`oi4``````````````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "물은 100 ℃에서 끓는다.",
+    "braille": "``e&z`#ajj`0d,c`n,s`,@!0czi4````"
+  },
+  {
+    "category": "한글 점자",
+    "text": "80 ㎞/시",
+    "braille": "#hj`0km4_/,o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "80킬로미터/h",
+    "braille": "#hj`fo1\"ueohs_/0h4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "→",
+    "braille": "3o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "←",
+    "braille": "[3"
+  },
+  {
+    "category": "한글 점자",
+    "text": "↔",
+    "braille": "[3o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "↓",
+    "braille": "^3o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "↑",
+    "braille": ";3o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "← 행주대교",
+    "braille": "{3`jr7.mir@+"
+  },
+  {
+    "category": "한글 점자",
+    "text": "한글 ↔ 일본어 번역",
+    "braille": "j3@!`{3o`o1~(s`~):a"
+  },
+  {
+    "category": "한글 점자",
+    "text": "거래량 ↓",
+    "braille": "@s\"r\">7`~3o"
+  },
+  {
+    "category": "한글 점자",
+    "text": "보도자료_업무협약 체결.hwp",
+    "braille": "~uiu.\"+_-sbemj:b>a`;n@|40hwp4"
+  },
+  {
+    "category": "한글 점자",
+    "text": "저자 | 홍길동",
+    "braille": ".s.`_|`j=@o1i="
+  },
+  {
+    "category": "한글 점자",
+    "text": "종이접기 & 클레이아트",
+    "braille": ".=o.sb@o`0@&4`f!\"no<h{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "저작권자© 연합뉴스",
+    "braille": ".s.a@p3.0^c4`*jbc%,{"
+  },
+  {
+    "category": "한글 점자",
+    "text": "◎ 실장급 인사발령",
+    "braille": "_00`,o1.7@{b`ql~1\"}"
+  },
+  {
+    "category": "한글 점자",
+    "text": "○ 승진 인사",
+    "braille": "_0`,{7.q`ql"
+  },
+  {
+    "category": "한글 점자",
+    "text": "홍길동 국장",
+    "braille": "j=@o1i=`@ma.7"
+  },
+  {
+    "category": "한글 점자",
+    "text": "사자성어 채우기: 고성__",
+    "braille": "l.,]s`;rm@o\"1`@u,]_-_-"
+  },
+  {
+    "category": "한글 점자",
+    "text": "일시:    ㉠",
+    "braille": "``o1,o\"1`7=a7_-`````````````````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "의 값은 이다.",
+    "braille": "``6tx``w`$b'z``#b/(#c5>#e)``oi4`"
+  },
+  {
+    "category": "수학 점자",
+    "text": "은 몇 자리 정수인가?",
+    "braille": "``#b^#dj``z`e:2`.\"o`.],mq$8`````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "은 이다.",
+    "braille": "``>x^#b``z``\\x\\``oi4````````````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "1. 수식에 사용하는 로마자는 로마자표 0을 적지 않고 수식의 앞뒤를 두 칸씩 띄어 쓴다.",
+    "braille": "ax5b33#j"
+  },
+  {
+    "category": "수학 점자",
+    "text": "이 방정식의 해는  이다.",
+    "braille": "``o`^7.],oaw`jrcz``x33#a``oi4```"
+  },
+  {
+    "category": "수학 점자",
+    "text": "일반항 의 값   o1^3j7``a;n``w`$b'",
+    "braille": "``im`*,xj5,m``f8x0\"`g8x0``$`i<[5"
+  },
+  {
+    "category": "수학 점자",
+    "text": "두 연속함수 가 다음 조건을 만족시킨다.",
+    "braille": ".u@)!`e3.x,ofqi4````````````````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "알파(Alpha)",
+    "braille": ",.a"
+  },
+  {
+    "category": "수학 점자",
+    "text": "감마(Gamma)",
+    "braille": ",.g"
+  },
+  {
+    "category": "수학 점자",
+    "text": "엡실론(Epsilon)",
+    "braille": ",.e"
+  },
+  {
+    "category": "수학 점자",
+    "text": "에타(Eta)",
+    "braille": ",.:"
+  },
+  {
+    "category": "수학 점자",
+    "text": "요타(Iota)",
+    "braille": ",.i"
+  },
+  {
+    "category": "수학 점자",
+    "text": "람다(Lambda)",
+    "braille": ",.l"
+  },
+  {
+    "category": "수학 점자",
+    "text": "뉴(Nu)",
+    "braille": ",.n"
+  },
+  {
+    "category": "수학 점자",
+    "text": "오미크론 (Omicron)",
+    "braille": ",.o"
+  },
+  {
+    "category": "수학 점자",
+    "text": "로(Rho)",
+    "braille": ",.r"
+  },
+  {
+    "category": "수학 점자",
+    "text": "타우(Tau)",
+    "braille": ",.t"
+  },
+  {
+    "category": "수학 점자",
+    "text": "피(Phi)",
+    "braille": ",.f"
+  },
+  {
+    "category": "수학 점자",
+    "text": "\\x\\\t\t   \\#bx5#g\\9#h",
+    "braille": ">#b"
+  },
+  {
+    "category": "수학 점자",
+    "text": "1. 가로바",
+    "braille": "(a5bi)@c"
+  },
+  {
+    "category": "수학 점자",
+    "text": "∽\t   _+,,ABC,'_+,,A-B-C-",
+    "braille": "_+,,ABC77_+,,DEF"
+  },
+  {
+    "category": "수학 점자",
+    "text": "3. 삼계도함수",
+    "braille": "y---33dx^#c/d^#cy"
+  },
+  {
+    "category": "수학 점자",
+    "text": "1. 의 는 아래첨자로 적는다.",
+    "braille": "$x/$z33f;x8x\"`y0"
+  },
+  {
+    "category": "수학 점자",
+    "text": "2. 이계 이상의 편도함수(, 의 )는 묶음 괄호로 묶는다.",
+    "braille": "($x$y)/($^#Bz)33f;(xy)8x\"`y0"
+  },
+  {
+    "category": "수학 점자",
+    "text": "1. 원소와 집합의 관계는 다음과 같이 적는다.",
+    "braille": "A6,M"
+  },
+  {
+    "category": "수학 점자",
+    "text": "나. 조건제시법은 다음과 같이 적는다.",
+    "braille": "7X\\`0X4CZ`.],M7"
+  },
+  {
+    "category": "수학 점자",
+    "text": "3. 부분집합은 다음과 같이 적는다.",
+    "braille": ",B61,A"
+  },
+  {
+    "category": "수학 점자",
+    "text": "나. 교집합()은 %으로 적되, 그 앞뒤를 한 칸씩 띄어 쓴다.",
+    "braille": ",A`%`,B"
+  },
+  {
+    "category": "수학 점자",
+    "text": "7. 앞선다()는 99@9으로 적되, 그 앞뒤를 한 칸씩 띄어 쓴다.",
+    "braille": "``A\"`B6,R`A`99@9`B\"1`0A4CZ`0B4``"
+  },
+  {
+    "category": "수학 점자",
+    "text": ": a는 b 앞에 있다.",
+    "braille": "<4N`O/I4````````````````````````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "8. 앞서고같지않다()는 99으로 적되, 그 앞뒤를 한 칸씩 띄어 쓴다.",
+    "braille": "``A`99`B\"1`0A4CZ`0B4`<4N`O/I4```"
+  },
+  {
+    "category": "수학 점자",
+    "text": ": a는 b 앞에 있다. b는 a 뒤에 있다.",
+    "braille": "0B4CZ`0A4`IMRN`O/I4`````````````"
+  },
+  {
+    "category": "수학 점자",
+    "text": "@9P\t          ,P`#`@9,P",
+    "braille": "P`3O`Q"
+  },
+  {
+    "category": "수학 점자",
+    "text": "8. 논리연산은 다음과 같이 적는다.",
+    "braille": "P`?`Q"
+  },
+  {
+    "category": "수학 점자",
+    "text": "9. 한정 기호는 다음과 같이 적는다.",
+    "braille": ".'X`P8X0"
+  },
+  {
+    "category": "수학 점자",
+    "text": "#H6                \tX6",
+    "braille": ",P(#C`#A)"
+  },
+  {
+    "category": "수학 점자",
+    "text": "N6                 \t8#G5#D06",
+    "braille": "#B,P(#G`#B)"
+  },
+  {
+    "category": "수학 점자",
+    "text": "8#CN06           \t#C6/#e6",
+    "braille": ",P(N9#a`R9#a)"
+  },
+  {
+    "category": "과학 점자",
+    "text": "황산 이온은 SO42-이다.",
+    "braille": "``jv7l3`o(z`0,s,o;#d^#b9`oi4````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "는 중탄산 이온이다.",
+    "braille": "``0,,,hco;#c^9,'4cz`.m7h3l3`o(o`i4``````````````````````````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "1. 원소 기호는 모두 1급 점자로 적는다.",
+    "braille": "``<,nh{l3w`jvja,oaz`````````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "아세트산의 화학식은 CH3COOH이다.",
+    "braille": "0,,,ch;#c\"cooh,'4oi4````````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "‥",
+    "braille": "H : N : H"
+  },
+  {
+    "category": "과학 점자",
+    "text": "3. 대문자 기호열의 맨 처음에 나오는 원소 기호 앞에 원소 기호가 아닌 숫자나 문자가 올 경우 대문자 구절표를 쓸 수 없다.",
+    "braille": "``#b,h;#b`5`,,,o;#b`3o``````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "2H2 + O2 → 2H2O",
+    "braille": "#b\"h;#bo,'``````````````````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "[붙임 2] 대문자 기호열의 마지막 대문자에 화살표가 붙어 나올 경우 화살표 앞에 대문자 종료표를 적는다.",
+    "braille": "``,,,p;#ds;#c`5`#ho;#b`3o```````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "+  →  + ↑",
+    "braille": "#bp;#bo;#e`5`#cso;#b,';3o```````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "3. 아래 첨자는 아래 첨자 기호 ;을 적고 첨자 내용을 적는다.",
+    "braille": "O2        ,o;#b     C2H5OH   ,,,c;#b\"h;#eoh,'"
+  },
+  {
+    "category": "과학 점자",
+    "text": "H2는 수소를 말한다.",
+    "braille": "``0,h;#b`cz`,m,u\"!`e1j3i4```````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "1. 기호 표기 형식",
+    "braille": "H"
+  },
+  {
+    "category": "과학 점자",
+    "text": "2. 공간 표기 형식",
+    "braille": "H"
+  },
+  {
+    "category": "과학 점자",
+    "text": "H-C≡C-H",
+    "braille": ",,,h;1c;3c;1h,'"
+  },
+  {
+    "category": "과학 점자",
+    "text": "3. 구조식을 표기할 때에는 왼쪽에서 오른쪽으로, 위쪽에서 아래쪽으로 풀어 적는다. 이때 중심 원소의 위쪽, 아래쪽, 오른쪽에 모두 원소가 있을 때에는 중심 원소를 기준으로 위, 아래의 원소를 적은 후 오른쪽의 원소를 적는다.",
+    "braille": "H2SO4            O"
+  },
+  {
+    "category": "과학 점자",
+    "text": "C4H10        CH3 - CH – CH3",
+    "braille": "CH3"
+  },
+  {
+    "category": "과학 점자",
+    "text": "라. 중심 원소의 위나 아래에 원소가 결합되어 있고, 오른쪽에 결합된 원소를 적을 때에는 원소 기호 앞에 -을 적는다.",
+    "braille": "CH4                H"
+  },
+  {
+    "category": "과학 점자",
+    "text": "가. 나프탈렌(naphthalen) C10H8환은 다음과 같이 적는다.",
+    "braille": "&{oy&{oy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "나. 안트라센(anthracene) C14H10환은 다음과 같이 적는다.",
+    "braille": "&{oy&{oy&{oy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "환핵의 결합 순서가 중심-아래-위인 경우",
+    "braille": "&{oy%&{oy-+&{oy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "4. 위나 아래에 있는 전자와 결합한 원소의 왼쪽이나 오른쪽에 전자가 있을 때에는 왼쪽은 <, 오른쪽은 >을 적은 다음 전자를 적는다.",
+    "braille": "O"
+  },
+  {
+    "category": "과학 점자",
+    "text": "99      99    99",
+    "braille": "99 ,o 99 ,p 99 ,o 99"
+  },
+  {
+    "category": "과학 점자",
+    "text": "99      99    99",
+    "braille": "99 ,o 99"
+  },
+  {
+    "category": "과학 점자",
+    "text": "2. 기체의 발생 기호는 ;3o, 침전 기호는 ^3o으로 적고 분자식에 붙여 적는다.",
+    "braille": "``,,,h;#bso;#d,'`5`,zn`3o```````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "H2SO4 + Zn → ZnSO4 + H2↑",
+    "braille": ",zn,s,o;#d`5`,h;#b;3o```````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "+ → ↓",
+    "braille": "``,ag^5`5`,cl^9`3o`,ag,cl^3o````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "3. 화학 반응식에서 구별된 글자체를 나타내는 괄호는 한글 소괄호 8' ,0으로 적는다. 이때 한글 소괄호가 있을지라도 대문자 구절표의 효력은 유지된다.",
+    "braille": "``#b,s8'0s,0`5`#c,o;#b8'0g,0`3o`"
+  },
+  {
+    "category": "과학 점자",
+    "text": "2S(s) + 3O2(g) →  2SO3(g)",
+    "braille": "#b,s,o;#c8'0g,0`````````````````"
+  },
+  {
+    "category": "과학 점자",
+    "text": "kg중",
+    "braille": "0kg4.m7"
+  },
+  {
+    "category": "과학 점자",
+    "text": "℃",
+    "braille": "0d,c"
+  },
+  {
+    "category": "과학 점자",
+    "text": "°",
+    "braille": "0d"
+  },
+  {
+    "category": "과학 점자",
+    "text": "′",
+    "braille": "0-"
+  },
+  {
+    "category": "과학 점자",
+    "text": "″",
+    "braille": "0--"
+  },
+  {
+    "category": "과학 점자",
+    "text": "‰",
+    "braille": "0pm"
+  },
+  {
+    "category": "과학 점자",
+    "text": "온난 전선",
+    "braille": "7-7-7-7-"
+  },
+  {
+    "category": "과학 점자",
+    "text": "폐색 전선",
+    "braille": "7#7#7#7#"
+  },
+  {
+    "category": "과학 점자",
+    "text": "정체 전선",
+    "braille": "G4G4G4G4"
+  },
+  {
+    "category": "과학 점자",
+    "text": "태풍",
+    "braille": "7t"
+  },
+  {
+    "category": "과학 점자",
+    "text": "열대성 저기압",
+    "braille": "7\\"
+  },
+  {
+    "category": "과학 점자",
+    "text": "교류 전원",
+    "braille": "&,acy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "전구",
+    "braille": "&,lpy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "열린 스위치",
+    "braille": "&O,Sy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "닫힌 스위치",
+    "braille": "&C,Sy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "전류계",
+    "braille": "&,ay"
+  },
+  {
+    "category": "과학 점자",
+    "text": "전압계",
+    "braille": "&,vy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "직류 전류계",
+    "braille": "&d,aY"
+  },
+  {
+    "category": "과학 점자",
+    "text": "직류 전압계",
+    "braille": "&d,vY"
+  },
+  {
+    "category": "과학 점자",
+    "text": "교류 전류계",
+    "braille": "&a,aY"
+  },
+  {
+    "category": "과학 점자",
+    "text": "교류 전압계",
+    "braille": "&a,vY"
+  },
+  {
+    "category": "과학 점자",
+    "text": "검류계",
+    "braille": "&,gay"
+  },
+  {
+    "category": "과학 점자",
+    "text": "변압기",
+    "braille": "&,ty"
+  },
+  {
+    "category": "과학 점자",
+    "text": "콘덴서",
+    "braille": "&,cy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "가변 콘덴서",
+    "braille": "&v,cy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "저항",
+    "braille": "&,ry"
+  },
+  {
+    "category": "과학 점자",
+    "text": "가변 저항",
+    "braille": "&v,ry"
+  },
+  {
+    "category": "과학 점자",
+    "text": "코일",
+    "braille": "&,ly"
+  },
+  {
+    "category": "과학 점자",
+    "text": "가변 코일",
+    "braille": "&v,ly"
+  },
+  {
+    "category": "과학 점자",
+    "text": "다이오드",
+    "braille": "&,dy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "발광 다이오드",
+    "braille": "&,ledy"
+  },
+  {
+    "category": "과학 점자",
+    "text": "N-P-N형 트랜지스터",
+    "braille": "&,npny"
+  },
+  {
+    "category": "과학 점자",
+    "text": "P-N-P형 트랜지스터",
+    "braille": "&,pnpy"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": ".",
+    "braille": ","
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "````#c``````````````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "b`.?2n1??1w2`??2n1v`````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "1. 악곡의 대분박은 숫자로 적으며, 두 가지 대분박을 나타낼 때에는 두 번째 대분박 앞에 .을 적는다.",
+    "braille": "````#b.#c```````````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "林",
+    "braille": "-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "林",
+    "braille": "-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "````#c_2````````````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "````````````````````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "a`<7.w_1?_1-1n1n<2n`````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "점점 세게",
+    "braille": "sc"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "점점 약하게",
+    "braille": "sd"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "반길이표",
+    "braille": "s,g"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "박자줄임표(준박)",
+    "braille": "sk"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "````````````````````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "㳞",
+    "braille": "a`.?1sgn1s,gns\"g````````````````"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "장지",
+    "braille": ".l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "튕김",
+    "braille": ".d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "연튕김",
+    "braille": ".e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "뜰",
+    "braille": ".f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "싸랭",
+    "braille": "/"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "슬기둥",
+    "braille": "*"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "슬기둥2",
+    "braille": "*b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "전성표",
+    "braille": "Uk"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "슬기둥",
+    "braille": "*"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "슬기둥2",
+    "braille": "*b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "뜰",
+    "braille": ".f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "[b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로",
+    "braille": "[c"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노네",
+    "braille": "[d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너네",
+    "braille": "[e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노리노",
+    "braille": "[h"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로네",
+    "braille": "[i"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느네느",
+    "braille": "[j"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니로",
+    "braille": "[aa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로니로",
+    "braille": "[aC"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니-르",
+    "braille": "[ad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니루-니",
+    "braille": "[ae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나",
+    "braille": "[af"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나느나",
+    "braille": "[ag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느로니르",
+    "braille": "[ah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니르노니르",
+    "braille": "[eh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(두 음 위)",
+    "braille": "ob"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(세 음 위)",
+    "braille": "oc"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노, 로(한 음 아래)",
+    "braille": "od"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(두 음 아래)",
+    "braille": "oe"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(세 음 아래)",
+    "braille": "of"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나(한 음 위, 본음)",
+    "braille": "og"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나",
+    "braille": "oi"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너느",
+    "braille": "oj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노라",
+    "braille": "oaa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니",
+    "braille": "oab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니레나",
+    "braille": "oac"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로나",
+    "braille": "oad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로나",
+    "braille": "oae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니느라니",
+    "braille": "oaf"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나니나",
+    "braille": "oag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "격음표",
+    "braille": "U6"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "떠이어표",
+    "braille": "[g"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹미는 표",
+    "braille": "u1'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹흘림표",
+    "braille": "u2a"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "풀어내림표",
+    "braille": "U3-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "요성표",
+    "braille": "+1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "[b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로",
+    "braille": "[c"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노네",
+    "braille": "[d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너네",
+    "braille": "[e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노리노",
+    "braille": "[h"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로네",
+    "braille": "[i"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느네느",
+    "braille": "[j"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니로",
+    "braille": "[aa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로니로",
+    "braille": "[aC"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니-르",
+    "braille": "[ad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니루-니",
+    "braille": "[ae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나",
+    "braille": "[af"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나느나",
+    "braille": "[ag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느로니르",
+    "braille": "[ah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니르노니르",
+    "braille": "[eh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(두 음 위)",
+    "braille": "ob"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(세 음 위)",
+    "braille": "oc"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노, 로(한 음 아래)",
+    "braille": "od"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(두 음 아래)",
+    "braille": "oe"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(세 음 아래)",
+    "braille": "of"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나(한 음 위, 본음)",
+    "braille": "og"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나",
+    "braille": "oi"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너느",
+    "braille": "oj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노라",
+    "braille": "oaa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니",
+    "braille": "oab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니레나",
+    "braille": "oac"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로나",
+    "braille": "oad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로나",
+    "braille": "oae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니느라니",
+    "braille": "oaf"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나니나",
+    "braille": "oag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나르나니",
+    "braille": "oah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "격음표",
+    "braille": "U6"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "떠이어표",
+    "braille": "[g"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹미는 표",
+    "braille": "u1'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹흘림표",
+    "braille": "u2a"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "풀어내림표",
+    "braille": "U3-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "요성표",
+    "braille": "+1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "[b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로",
+    "braille": "[c"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노네",
+    "braille": "[d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너네",
+    "braille": "[e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노리노",
+    "braille": "[h"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로네",
+    "braille": "[i"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느네느",
+    "braille": "[j"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니로",
+    "braille": "[aa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로니로",
+    "braille": "[aC"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니-르",
+    "braille": "[ad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니루-니",
+    "braille": "[ae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나",
+    "braille": "[af"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나느나",
+    "braille": "[ag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느로니르",
+    "braille": "[ah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니르노니르",
+    "braille": "[eh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(두 음 위)",
+    "braille": "ob"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노, 로(한 음 아래)",
+    "braille": "od"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(두 음 아래)",
+    "braille": "oe"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나(한 음 위, 본음)",
+    "braille": "og"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나",
+    "braille": "oi"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너느",
+    "braille": "oj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노라",
+    "braille": "oaa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명(노라()를 하되 노 음을 굴려 내는 표)",
+    "braille": "oaa6"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니",
+    "braille": "oab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명(느니()를 하되 느 음을 니레()로 내는 표)",
+    "braille": "oab1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니레나",
+    "braille": "oac"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로나",
+    "braille": "oad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로나",
+    "braille": "oae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니느라니",
+    "braille": "oaf"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나니나",
+    "braille": "oag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나르나니",
+    "braille": "oah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "격음표",
+    "braille": "U6"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "요성표",
+    "braille": "+1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "[b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로",
+    "braille": "[c"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노네",
+    "braille": "[d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너네",
+    "braille": "[e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노리노",
+    "braille": "[h"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로네",
+    "braille": "[i"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느네느",
+    "braille": "[j"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니로",
+    "braille": "[aa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나니르",
+    "braille": "[ab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니라",
+    "braille": "[ba"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로니로",
+    "braille": "[aC"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니-르",
+    "braille": "[ad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니루-니",
+    "braille": "[ae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나",
+    "braille": "[af"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나느나",
+    "braille": "[ag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느로니르",
+    "braille": "[ah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니르노니르",
+    "braille": "[eh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(두 음 위)",
+    "braille": "ob"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "리(세 음 위)",
+    "braille": "oc"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노, 로(한 음 아래)",
+    "braille": "od"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(두 음 아래)",
+    "braille": "oe"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "로(세 음 아래)",
+    "braille": "of"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나(한 음 위, 본음)",
+    "braille": "og"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나",
+    "braille": "oi"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "너느",
+    "braille": "oj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노라",
+    "braille": "oaa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니",
+    "braille": "oab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니레나",
+    "braille": "oac"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니로나",
+    "braille": "oad"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "네로나",
+    "braille": "oae"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니느라니",
+    "braille": "oaf"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나니나",
+    "braille": "oag"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나르나니",
+    "braille": "oah"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "시루표",
+    "braille": "mb"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "루러표",
+    "braille": "ml"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "요성표",
+    "braille": "+1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명(당피리 기호. 하나 혹은 두 음 위, 본음을",
+    "braille": "%2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "2/3, 1/3의 길이로 연주하는 표)",
+    "braille": "\"p+1'aob;#c"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "[b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노네",
+    "braille": "[d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니로",
+    "braille": "[aa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노, 로",
+    "braille": "od"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니나",
+    "braille": "og"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느나",
+    "braille": "oi"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노라",
+    "braille": "oaa"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "느니",
+    "braille": "oab"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "니레나",
+    "braille": "oac"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "나니나",
+    "braille": "[af"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "요성표",
+    "braille": "+1"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹흘림표",
+    "braille": "u2a"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "격음표",
+    "braille": "U6"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "풀어내림표, 흘러내리는 표",
+    "braille": "U3-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "루러표, 더름표",
+    "braille": "ml"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "장지표",
+    "braille": ".l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명지표",
+    "braille": ".d"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "소지표",
+    "braille": ".e"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "아래표",
+    "braille": ".f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "제자리표",
+    "braille": ".b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "세로표, 당기는 표",
+    "braille": "<'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹요성표",
+    "braille": "+2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "채편(덕, 떡, 따)",
+    "braille": "("
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "다, 더",
+    "braille": "l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹채(기덕, 기닥)",
+    "braille": "@l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "덕기, 덕더",
+    "braille": ",l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굴림채(더러러러)",
+    "braille": ")"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "쿠궁",
+    "braille": "}"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "두르르르",
+    "braille": ")"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "쿠",
+    "braille": "l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "개르르르",
+    "braille": ")"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "지징",
+    "braille": ")"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "북표",
+    "braille": "l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가로정간에서 한국 음악 기호로 시작할 때",
+    "braille": "_l"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가로정간에서 문자로 시작할 때",
+    "braille": "_2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가로정간 밖에서 한국 음악 기호로 시작할 때",
+    "braille": "_k"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가로정간 밖에서 문자로 시작할 때",
+    "braille": "_'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가로정간 밖에 있는 서양 음악 기호를 나타낼 때",
+    "braille": ",'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "X 모양 음표",
+    "braille": "5b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명(본래 줄보다 두 줄 아래에서 연주하는 표)",
+    "braille": "3b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "겹전성표",
+    "braille": "Ukk"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "꺾는 표",
+    "braille": "*2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "끌어올리는 표",
+    "braille": "*-"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "퇴성표",
+    "braille": "Uh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "추성표",
+    "braille": "Ud"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가는 농현표",
+    "braille": "Ua"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굵은 농현표",
+    "braille": "Uj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굵은 농현표",
+    "braille": "Uj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "대점",
+    "braille": "@_"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "중점",
+    "braille": "\"_"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "퇴성표",
+    "braille": "Uh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "추성표",
+    "braille": "Ud"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "꺾는 표",
+    "braille": "*2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "깊은 퇴성표",
+    "braille": "u*"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가는 요성표",
+    "braille": "Ua"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굵은 요성표",
+    "braille": "Uj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "지공치기표",
+    "braille": "mk"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "내림표",
+    "braille": "%'"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "올림표",
+    "braille": "%a"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "서침표",
+    "braille": "ma"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "시루표",
+    "braille": "mb"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "루러표",
+    "braille": "ml"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "퇴성표",
+    "braille": "Uh"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "추성표",
+    "braille": "Ud"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "꺾는 표",
+    "braille": "*2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "꺾는 표",
+    "braille": "*2"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가는 요성표",
+    "braille": "Ua"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굵은 요성표",
+    "braille": "Uj"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "무명(본래 줄보다 두 줄 아래에서 연주하는 표)",
+    "braille": "3b"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "노니로",
+    "braille": "[f"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "가는 요성표",
+    "braille": "Ua"
+  },
+  {
+    "category": "한국 음악 점자",
+    "text": "굵은 요성표",
+    "braille": "Uj"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "1. 마디를 나타내는 세로줄은 한 칸 비워 두는 것으로 나타낸다.",
+    "braille": "\"$$[w ?ws ]]$: p'v"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "3. 뒤의 음표와의 간격이 6도 이상일 때에는 뒤의 음표 앞에 길표를 적는다.",
+    "braille": "\"dfhi\"d\"i \"d<\"j\"d\"i\"d\"i r'<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "4. 뒤의 음표와의 간격이 4~5도일 때에는 길이 달라진 경우에만 길표를 적는다.",
+    "braille": "\"nr qn t\"p o_r s\"p nu<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "5. ‘8va’는 다음과 같이 적는다.",
+    "braille": "\"?$\\.? >#hva alta> .?$\\;? .\\$?\"\\ .$?\""
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "1) 일반 보표와 같이 ‘8va alta(한 옥타브 위로) ... loco(원 위치로)’와 ‘8va bassa(한 옥타브 아래로) ... loco’를 그대로 적는다.",
+    "braille": ">loco> .\\$"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "16분음표",
+    "braille": "yddddd"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "마디 전체",
+    "braille": "yddddddd"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "32분음표",
+    "braille": "nddddddd"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "마디 전체",
+    "braille": "nddddddddd"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "1도  l       2도  /       3도  +       4도  #",
+    "braille": "#d4"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "5도  9       6도  0       7도  3       8도  -",
+    "braille": ".>.?0 w+[+\\#\\9 [0w#?0<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "1. 건반 악기에서 오른손에 해당하는 높은음자리표를 적을 때에는 높은음을 기준으로 하고, 왼손에 해당하는 낮은음자리표를 적을 때에는 낮은음을 기준으로 한다.",
+    "braille": "_>_?9 $+]9\\+$0 ]+:+?9<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "4) 오선보에 없는 점자 악보의 변화표를 적을 때에는 \"을 그 앞에 적는다.",
+    "braille": ".c"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "(묵자) >7l'%\"hj.fe?'j<>\"$\\\"",
+    "braille": "\"i<ji*h<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "(점자) >7l'%\"hj.fe?'\"<j<>\"$\"%\\\"",
+    "braille": "\"i<ji*h<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "2) 하행 잔결꾸밈 표는 모든 상행 잔결꾸밈 표 뒤에 l을 적어 나타낸다.",
+    "braille": "\"6l"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "2) 떤꾸밈 표와 돈꾸밈 표가 이어질 때에는 이들을 순서대로 적는다.",
+    "braille": "64     ;64"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "온음표",
+    "braille": "#a---"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "16분음표",
+    "braille": "#a7"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "32분음표",
+    "braille": "#a="
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "점8분음표",
+    "braille": "#a31"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "5. 변화표는 숫자 앞에 적는다.",
+    "braille": "%%.c"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "6. 독립 변화표는 모든 기본 화음의 3음에 적용한다.",
+    "braille": ";>_:?#%6w#%k[#*3*46<k'"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "중국어표",
+    "braille": "\"8 0"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "기타 외국어표",
+    "braille": ";8 0"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "-"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": ".2",
+    "braille": "^2"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "아포스트로피",
+    "braille": ","
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "큰따옴표",
+    "braille": ";"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "작은따옴표",
+    "braille": ":"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "8 0",
+    "braille": ",8 ,0"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "-"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": ".",
+    "braille": "_"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": ".",
+    "braille": "_"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "대문자 기호표",
+    "braille": "( )"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "이탤릭체 기호표",
+    "braille": "*"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "-"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "큰따옴표",
+    "braille": ","
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "-"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "괄호",
+    "braille": ","
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "- -"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "대문자 기호표",
+    "braille": "( )"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "이탤릭체 기호표",
+    "braille": "[ ]"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "...",
+    "braille": "-"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": ".",
+    "braille": "_"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ق",
+    "braille": "q"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ك",
+    "braille": "k"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ل",
+    "braille": "l"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "م",
+    "braille": "m"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ن",
+    "braille": "n"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ه",
+    "braille": "h"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "و",
+    "braille": "w"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ي",
+    "braille": "i"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "“ ”",
+    "braille": "( )"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "별표",
+    "braille": "[ ]"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "대문자 기호표",
+    "braille": "{ }"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ɬ",
+    "braille": "8l"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "θ",
+    "braille": ".?"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "에지(ezh)",
+    "braille": "?"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "ǀ",
+    "braille": "&?"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "오른쪽 화살표",
+    "braille": ","
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "↓",
+    "braille": "_!"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "↗",
+    "braille": "_d"
+  },
+  {
+    "category": "서양 음악 점자",
+    "text": "↘",
+    "braille": "_0"
+  }
+]

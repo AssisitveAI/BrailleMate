@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrailleMate</string>
+    <string name="app_description">점역교정사와 점자 학습자를 위한 AI 점자 컨설팅</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">홈</string>
+    <string name="nav_regulation">규정</string>
+    <string name="nav_chat">AI 상담</string>
+    <string name="nav_bookmark">북마크</string>
+    <string name="nav_settings">설정</string>
+
+    <!-- Home -->
+    <string name="home_welcome">BrailleMate에 오신 것을 환영합니다</string>
+    <string name="home_subtitle">2024 한국 점자 규정 기반 AI 점자 컨설팅</string>
+    <string name="home_quick_search">빠른 검색</string>
+    <string name="home_search_hint">규정, 점자 표기, 조항 번호 검색…</string>
+    <string name="home_ai_consult">AI 점자 컨설팅</string>
+    <string name="home_ai_description">점자에 관한 질문을 자유롭게 해보세요</string>
+    <string name="home_regulation">점자 규정 전문</string>
+    <string name="home_regulation_description">2024 개정 한국 점자 규정 탐색</string>
+
+    <!-- Regulation -->
+    <string name="regulation_title">한국 점자 규정</string>
+    <string name="regulation_search">규정 검색</string>
+    <string name="regulation_search_hint">조항, 내용, 예시 검색…</string>
+    <string name="regulation_no_results">검색 결과가 없습니다</string>
+    <string name="regulation_bookmark_added">북마크에 추가되었습니다</string>
+    <string name="regulation_bookmark_removed">북마크에서 제거되었습니다</string>
+
+    <!-- Chat -->
+    <string name="chat_title">AI 점자 컨설팅</string>
+    <string name="chat_input_hint">점자에 관해 궁금한 것을 물어보세요…</string>
+    <string name="chat_send">전송</string>
+    <string name="chat_offline">인터넷 연결이 필요합니다</string>
+    <string name="chat_no_api_key">설정에서 Gemini API 키를 입력해 주세요</string>
+    <string name="chat_error">응답을 받지 못했습니다. 다시 시도해 주세요.</string>
+    <string name="chat_welcome_message">안녕하세요! 저는 2024 한국 점자 규정을 기반으로 점자에 관한 질문에 답변드리는 AI 컨설턴트입니다.\n\n예시 질문:\n• \"쌍시옷은 점자로 어떻게 적나요?\"\n• \"약자 규정에 대해 알려주세요\"\n• \"수학 점자에서 분수는 어떻게 표기하나요?\"</string>
+
+    <!-- Bookmark -->
+    <string name="bookmark_title">북마크</string>
+    <string name="bookmark_empty">저장된 북마크가 없습니다</string>
+    <string name="bookmark_tab_regulation">규정 조항</string>
+    <string name="bookmark_tab_chat">대화 기록</string>
+
+    <!-- Settings -->
+    <string name="settings_title">설정</string>
+    <string name="settings_api_key">Gemini API 키</string>
+    <string name="settings_api_key_description">AI 점자 컨설팅에 사용할 Google Gemini API 키를 입력하세요</string>
+    <string name="settings_api_key_hint">API 키 입력…</string>
+    <string name="settings_api_key_saved">API 키가 저장되었습니다</string>
+    <string name="settings_api_key_help">API 키 발급 방법</string>
+    <string name="settings_theme">테마</string>
+    <string name="settings_theme_system">시스템 설정</string>
+    <string name="settings_theme_light">라이트</string>
+    <string name="settings_theme_dark">다크</string>
+    <string name="settings_font_size">글꼴 크기</string>
+    <string name="settings_about">앱 정보</string>
+    <string name="settings_version">버전</string>
+    <string name="settings_privacy">개인정보처리방침</string>
+    <string name="settings_license">오픈소스 라이선스</string>
+
+    <!-- Sections -->
+    <string name="section_hangul">한글 점자</string>
+    <string name="section_math">수학 점자</string>
+    <string name="section_science">과학 점자</string>
+    <string name="section_korean_music">한국 음악 점자</string>
+    <string name="section_western_music">서양 음악 점자</string>
+    <string name="section_foreign">외국어 점자</string>
+    <string name="section_ipa">국제음성기호 점자</string>
+    <string name="section_principles">한국 점자 표기의 기본 원칙</string>
+
+    <!-- About -->
+    <string name="about_description">BrailleMate는 점역교정사와 점자 학습자를 위한 AI 기반 점자 컨설팅 앱입니다.\n\n2024 개정 한국 점자 규정(문화체육관광부고시 제2024-0005호)을 기반으로 정확한 점자 정보를 제공합니다.</string>
+    <string name="about_developer">개발: KAIST AAI Lab</string>
+</resources>
